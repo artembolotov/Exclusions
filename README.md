@@ -1,4 +1,4 @@
 # Exclusions
 My AdGuard VPN Exclusions
 
-Import [this file](/selective.txt?raw=true) to your selective exclusions list and use app in selective mode
+Import [this file](raw.githubusercontent.com/artembolotov/Exclusions/main/selective.txt) to your selective exclusions list and use app in selective mode
